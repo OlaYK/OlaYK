@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Olayinka Daniel
-- 👀 A Product Manager & Data Analyst 
+- 👀 A Product Manager & Data Analyst
+- Vibe Coding?!
 - 🌱 i'm currently exploring SQL & Python in Data Analysis and Machine Learning
 - 💞️ I’m looking to collaborate on Web3 projects especially but open to fast paced environments likewise
 - 📫 Reach me via oolayinkadaniel@gmail.com
