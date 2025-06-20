@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OlaYK
-- 👀 I’m interested in Product management roles...
-- 🌱 I’m currently learning Project management and mySQL...
-- 💞️ I’m looking to collaborate on Crypto projects...
-- 📫 Reach me via oolayinkadaniel@gmail.com...
+- 👋 Hi, I’m Olayinka Daniel
+- 👀 A Product Manager & Data Analyst 
+- 🌱 i'm currently exploring SQL & Python in Data Analysis and Machine Learning
+- 💞️ I’m looking to collaborate on Web3 projects especially but open to fast paced environments likewise
+- 📫 Reach me via oolayinkadaniel@gmail.com
 
 <!---
 OlaYK/OlaYK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
