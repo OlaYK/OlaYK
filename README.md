@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Olayinka Daniel
 - 👀 A Backend Developer, Technical Product Manager, Data Analyst & Data Scientist
-- 🐍 Python, Django
+- 🐍 Python, Django, TypeScript, Node.js, SQL
 - 🤖 Vibe Coding?! 
 - 🌱 i'm currently exploring SQL & Python in Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on Web3 projects especially but open to fast paced environments likewise
+- 💞️ I’m looking to collaborate on Web3 projects especially but open to fast paced environments
 - 📫 Reach me via oolayinkadaniel@gmail.com
 
 <!---
